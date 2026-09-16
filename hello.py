@@ -1,3 +1,3 @@
 name = input('What is your name')
 print('Hello', name)
-Print('I am learning python')
+Print('I am learning python,GIT,and AI')
